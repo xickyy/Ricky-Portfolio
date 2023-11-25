@@ -271,5 +271,10 @@ div.fp-tableCell {
     border: 0
 }
 
+.tech-list {
+    background-color: black;
+    color: black;
+  }
+
 
 /*# sourceMappingURL=fullpage.min.css.map */
